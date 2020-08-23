@@ -1,2 +1,2 @@
-# cs50
-cs50 Solutions
+# CS50x
+CS50x Mario Advanced Task Solutions
